@@ -1,4 +1,4 @@
-name: spm doit
+name: care
 
 on:
   workflow_dispatch:
